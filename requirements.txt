@@ -1,0 +1,5 @@
+login requirements:
+1.college email
+2.secondary email
+3.branch
+4.password
